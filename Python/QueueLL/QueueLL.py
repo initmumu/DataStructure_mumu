@@ -1,6 +1,3 @@
-from cmath import exp
-
-
 class NodeType:
     def __init__(self, item):
         self.info = item
